@@ -1,0 +1,1 @@
+java -Xmx3072M -Xms3072M -jar forge-1.7.2-10.12.2.1124-universal.jar
